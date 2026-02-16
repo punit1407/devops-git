@@ -33,3 +33,5 @@ git restore rat.txt simran.txt (if we delet file form file system we restore in 
 git switch dev (switch branch)
 
 git checkout -d test (to delete branch)
+
+git clone <HTTPS URL>
