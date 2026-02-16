@@ -35,3 +35,5 @@ git switch dev (switch branch)
 git checkout -d test (to delete branch)
 
 git clone <HTTPS URL>
+
+git remote -v (To check origin)
